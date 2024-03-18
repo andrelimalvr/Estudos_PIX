@@ -1,1 +1,2 @@
-# Estudos_PIX
+# estudopix
+Análise dos dados extraidos via api pix.
